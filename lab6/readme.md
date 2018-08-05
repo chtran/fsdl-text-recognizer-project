@@ -1,6 +1,6 @@
 # Lab 6/7: Testing and Deployment
 
-As always, the first thing to do is `git pull` :)
+As always, the first thing to do is `git pull` 
 
 In this lab, we will
 
